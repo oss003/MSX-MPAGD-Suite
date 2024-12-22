@@ -1,7 +1,7 @@
 
 
 
-# MSX AGD Suite
+# MSX MPAGD Suite
 AGD suite for converting, compiling and running AGD games on an MSX machine. Right now, the generated games will work in all MSX machine types; but only MSX1 features are supported (except color palettes to some extent).
 
 ## Installation
